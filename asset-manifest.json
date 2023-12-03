@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bucket-list-tour/static/css/main.c1465e30.css",
+    "main.js": "/bucket-list-tour/static/js/main.450e504b.js",
+    "static/media/mountain.png": "/bucket-list-tour/static/media/mountain.e77115ac37ab46dd5730.png",
+    "static/media/compass.png": "/bucket-list-tour/static/media/compass.869c507ae8985c73714a.png",
+    "static/media/big_globe.png": "/bucket-list-tour/static/media/big_globe.91453a84ab3f11c63b7b.png",
+    "index.html": "/bucket-list-tour/index.html",
+    "main.c1465e30.css.map": "/bucket-list-tour/static/css/main.c1465e30.css.map",
+    "main.450e504b.js.map": "/bucket-list-tour/static/js/main.450e504b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1465e30.css",
+    "static/js/main.450e504b.js"
+  ]
+}
